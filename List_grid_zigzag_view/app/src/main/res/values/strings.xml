@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">List_grid_zigzag_view</string>
+
+
+    <string name="LinearView_Horizontal">LinearView Horizontal</string>>
+    <string name="LinearView_Vertical">LinearView Vertical</string>>
+    <string name="GridView">Gried View</string>>
+    <string name="stagrredView_horizontal">stagrredView horizontal</string>>
+    <string name="stagrredView_Vertical">LinearView Vertical</string>>
+</resources>
